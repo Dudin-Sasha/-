@@ -13,7 +13,7 @@ h1,h2{
     margin: 0 0 30px;
 }
 
-#sec{background-color: #9f48f1;}
+.sec{background-color: #9f48f1;}
 
 #gallery{
     background-color: #9f48f1;
@@ -35,8 +35,8 @@ p{
 
 h2{
     font-size: 30px; 
-    width: 320px;
     padding: 0 30px;
+    text-align: center;
 }
 
 
